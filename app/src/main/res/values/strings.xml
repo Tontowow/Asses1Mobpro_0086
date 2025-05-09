@@ -1,10 +1,22 @@
 <resources>
-    <string name="app_name">Mobpro 1</string>
-    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="app_name">Assesment 2</string>
+    <string name="list_kosong">Belum ada data</string>
+    <string name="x_diklik">%1$s diklik!</string>
+    <string name="tambah_catatan">Tambah Peminjaman</string>
+    <string name="tambah_error">Tambah error</string>
+    <string name="judul">Judul</string>
+    <string name="isi_catatan">Isi baranag</string>
     <string name="kembali">Kembali</string>
-    <string name="copyright">To Do List merupakan sebuah aplikasi Android untuk menambahkan suatu tugas
-        mengedit dan menghapus list yang sudah di tambahkan dalam applikasi tersebut.\n\nAplikasi ini dibuat untuk kelas Pemrograman Perangkat Bergerak 1
-        .\n\nCopyright © 2024-2025 Mochammad Tontowi Jauhari.\nAll rights reserved.
-    </string>
+    <string name="simpan">Simpan</string>
+    <string name="edit_catatan">Ubah peminjaman</string>
+    <string name="invalid">Nama peminjam dan isi barang tidak boleh kosong</string>
+    <string name="lainnya">Opsi Lainnya</string>
+    <string name="hapus">Hapus Peminjaman</string>
+    <string name="pesan_hapus">Hapus Peminjaman Ini ?</string>
+    <string name="tombol_hapus">Hapus</string>
+    <string name="tombol_batal">Batal</string>
+    <string name="list">Tampilan list</string>
+    <string name="grid">Tampilan grid</string>
+
 
 </resources>

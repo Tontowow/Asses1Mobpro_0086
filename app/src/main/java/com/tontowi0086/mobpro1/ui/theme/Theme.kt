@@ -1,6 +1,5 @@
-package com.tontowi0086.mobpro1.ui.theme
+package com.tontowi0086.mobpro1.ui.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
